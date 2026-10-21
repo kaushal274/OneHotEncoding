@@ -1,0 +1,21 @@
+id,name,age,gender,city,education,department,employment_type,marital_status,salary,purchased
+1,Aarav,25,Male,Mumbai,Bachelor,Sales,Full-time,Single,35000,Yes
+2,Priya,32,Female,Delhi,Master,Marketing,Full-time,Married,52000,Yes
+3,Rohan,28,Male,Bangalore,Bachelor,IT,Contract,Single,48000,No
+4,Sneha,41,Female,Chennai,PhD,Research,Full-time,Married,78000,Yes
+5,Vikram,35,Male,Mumbai,Master,Finance,Full-time,Married,61000,No
+6,Ananya,23,Female,Pune,High School,Sales,Part-time,Single,22000,No
+7,Karan,30,Male,Delhi,Bachelor,IT,Full-time,Single,50000,Yes
+8,Meera,38,Female,Bangalore,Master,HR,Full-time,Married,58000,Yes
+9,Arjun,27,Male,Chennai,Bachelor,Marketing,Contract,Single,40000,No
+10,Divya,45,Female,Pune,PhD,Research,Full-time,Married,85000,Yes
+11,Rahul,33,Male,Mumbai,Bachelor,Finance,Part-time,Divorced,30000,No
+12,Pooja,29,Female,Delhi,Master,IT,Full-time,Single,55000,Yes
+13,Sanjay,50,Male,Bangalore,High School,Sales,Full-time,Married,45000,No
+14,Neha,26,Female,Chennai,Bachelor,HR,Contract,Single,38000,No
+15,Amit,36,Male,Pune,Master,Finance,Full-time,Married,65000,Yes
+16,Kavya,31,Female,Mumbai,Bachelor,Marketing,Full-time,Single,47000,Yes
+17,Nikhil,24,Male,Delhi,High School,Sales,Part-time,Single,20000,No
+18,Ritu,39,Female,Bangalore,PhD,Research,Full-time,Divorced,80000,Yes
+19,Manish,42,Male,Chennai,Master,IT,Full-time,Married,70000,Yes
+20,Tara,28,Female,Pune,Bachelor,HR,Full-time,Single,42000,No
